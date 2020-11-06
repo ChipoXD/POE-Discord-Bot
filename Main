@@ -198,4 +198,4 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run('NzU4NDQzMDQ5NTEyMjA2MzU2.X2vBIg.jrdyKxVZrH2nDF37glNTz8tEuOA')
+client.run('¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤') #Discord bot token
